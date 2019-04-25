@@ -3,7 +3,7 @@
 
 # Javascript
 1. [关于文件上传下载我所知道的全部内容](https://github.com/PatrickLh/blog/issues/1)
-2. [Javascirpt学习笔记-This](https://github.com/PatrickLh/blog/issues/2)
+2. [Javascript学习笔记-This](https://github.com/PatrickLh/blog/issues/2)
 3. [Javascript学习笔记-程序性能和性能测试](https://github.com/PatrickLh/blog/issues/3)
 4. [Javascript学习笔记-类型](https://github.com/PatrickLh/blog/issues/4)
 5. [Javascript学习笔记-模块化](https://github.com/PatrickLh/blog/issues/5)
