@@ -39,7 +39,12 @@
 2. Javascript学习笔记-Fetch-API
 3. Javascript学习笔记-WebAssembly
 4. Javascript学习笔记-WebComponent
-5. Javascript学习笔记-Service Worker
+5. Javascript学习笔记-Service Worker和Application Cache
 7. Javascript学习笔记-Websocket
-
-
+8. Javascript学习笔记-IndexDB
+9. Javascript学习笔记-MutationObserver
+10. Javascript学习笔记-document.execCommand
+11. Javascript学习笔记-customElements
+12. Javascript学习笔记-VRDisplay -> WebVR
+13. Javascript学习笔记-Form validation
+14. 
