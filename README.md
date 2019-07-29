@@ -20,6 +20,7 @@
 16. [Javascript学习笔记-Promise](https://github.com/PatrickLh/blog/issues/16)
 17. [Javascript学习笔记-Strict-Mode](https://github.com/PatrickLh/blog/issues/17)
 18. [Javascript学习笔记-Object.defineProperty和Proxy](https://github.com/PatrickLh/blog/issues/25)
+19. [Javascript学习笔记-Fetch API](https://github.com/PatrickLh/blog/issues/27)
 
 # WebGL
 1. [WebGL-学习笔记（一）](https://github.com/PatrickLh/blog/issues/18)
@@ -36,7 +37,7 @@
 
 # 2019年要完成的其他话题
 1. ES7-Decorators
-2. Javascript学习笔记-Fetch-API
+2. Javascript学习笔记-Fetch API (DONE)
 3. Javascript学习笔记-WebAssembly
 4. Javascript学习笔记-WebComponent
 5. Javascript学习笔记-Service Worker和Application Cache
