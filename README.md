@@ -37,7 +37,7 @@
 
 # 2019年要完成的其他话题
 1. ES7-Decorators
-～～2. Javascript学习笔记-Fetch API～～
+~~2. Javascript学习笔记-Fetch API~~
 3. Javascript学习笔记-WebAssembly
 4. Javascript学习笔记-WebComponent
 5. Javascript学习笔记-Service Worker和Application Cache
