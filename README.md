@@ -34,6 +34,7 @@
 
 # 其他
 1. [正则表达式](https://github.com/PatrickLh/blog/issues/24)
+2. [用Node构建命令行](https://github.com/PatrickLh/blog/issues/28)
 
 # 2019年要完成的其他话题
 1. ES7-Decorators
