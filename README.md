@@ -36,7 +36,7 @@
 1. [正则表达式](https://github.com/PatrickLh/blog/issues/24)
 2. [用Node构建命令行](https://github.com/PatrickLh/blog/issues/28)
 
-# 2019年要完成的其他话题
+# 2020年要完成的其他话题
 1. ES7-Decorators
 2. ~~Javascript学习笔记-Fetch API~~
 3. Javascript学习笔记-WebAssembly
