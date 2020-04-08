@@ -31,6 +31,8 @@
 
 # HTTP
 1. [HTTP学习笔记-CORS](https://github.com/PatrickLh/blog/issues/23)
+2. [解决跨站Cookie的SameSite - 了解篇](https://github.com/PatrickLh/blog/issues/30)
+3. [解决跨站Cookie的SameSite - 解决篇](https://github.com/PatrickLh/blog/issues/29)
 
 # 其他
 1. [正则表达式](https://github.com/PatrickLh/blog/issues/24)
