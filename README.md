@@ -38,6 +38,11 @@
 1. [正则表达式](https://github.com/PatrickLh/blog/issues/24)
 2. [用Node构建命令行](https://github.com/PatrickLh/blog/issues/28)
 
+# 周刊系列
+1.[第0期 - 终末之时](https://github.com/PatrickLh/blog/issues/31)
+2.[第1期 - 从零开始的异世界生活](https://github.com/PatrickLh/blog/issues/new)
+3.[第2期 - 钢之炼金术士](https://github.com/PatrickLh/blog/issues/new)
+
 # 2020年要完成的其他话题
 1. ES7-Decorators
 2. ~~Javascript学习笔记-Fetch API~~
